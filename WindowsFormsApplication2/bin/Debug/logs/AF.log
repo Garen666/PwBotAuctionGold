@@ -1,0 +1,5 @@
+Angelica File Module Error Log
+Created(or opened) on 07/03/2017 00:25:13
+
+[00:25:13.074] AFilePackGame::Open(), Can not open file [C:\Users\Admin\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\configs.pck]
+[00:25:13.074] AFilePackMan::OpenFilePackageInGame(), Can not open package [configs.pck]
